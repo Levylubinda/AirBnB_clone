@@ -1,5 +1,6 @@
 <p align="center">An AirBnB clone.</p>
 <h1 align="center"> AirBnB clone - The console </h1>
+![icon](https://github.com/Levylubinda/AirBnB_clone/assets/114923880/3f086ad5-7d8d-4678-a36b-b60f5ce77dad)
 
 
 The AirBnB console this about create a minishell, this console works in interactive and non-interactive mode; this project is just a basic copy of AirBnB, 
